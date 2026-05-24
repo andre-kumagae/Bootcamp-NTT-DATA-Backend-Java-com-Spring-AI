@@ -1,4 +1,4 @@
-package m01_classes_e_encapsulamento.fundamentos_da_linguagem_de_programacao_java.ex02;
+package m01_fundamentos_java.ex02;
 
 import java.util.Scanner;
 

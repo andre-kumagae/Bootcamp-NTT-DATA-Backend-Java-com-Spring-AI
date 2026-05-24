@@ -1,5 +1,6 @@
-import java.util.*;
-import java.lang.*;
+package m03_abstracao_e_encapsulamento;
+
+import java.util.Scanner;
 
 public class Banco {
 

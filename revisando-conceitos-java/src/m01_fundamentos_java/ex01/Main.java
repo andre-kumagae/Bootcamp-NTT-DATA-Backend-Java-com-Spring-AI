@@ -1,6 +1,5 @@
-package m01_classes_e_encapsulamento.fundamentos_da_linguagem_de_programacao_java.ex01;
+package m01_fundamentos_java.ex01;
 
-import java.time.LocalDateTime;
 import java.util.Scanner;
 
 /**
